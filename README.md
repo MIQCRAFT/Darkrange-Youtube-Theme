@@ -6,9 +6,12 @@ This was made to let everyone who wants, able to have a more good-looking style.
 Need help? Join my server! **[https://mewinvite.netlify.app/](https://mewinvite.netlify.app/)**
 
 # Installing
-### Web Browser With Extension
 Follow instructions :
+- With Extension
 ### Download Instagram Theme : [https://miqcraft-theme.netlify.com](https://miqcraft-theme.netlify.app/page/youtube-theme)
+- With Userstyle.org [Stylish]
+### Go to pages : [https://userstyles.org/styles/youtube-miqcraft-theme](https://userstyles.org/styles/200325/youtube-miqcraft-theme)
+
 
 **I found a bug, what do I do?**<br>Make a **Pull Request / Issue** and tell me :)
 
