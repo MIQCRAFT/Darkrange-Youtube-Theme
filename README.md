@@ -8,7 +8,7 @@ Need help? Join my server! **[https://mewinvite.netlify.app/](https://mewinvite.
 # Installing
 ### Web Browser With Extension
 Follow instructions :
-### Download Instagram Theme : [https://miqcraft-theme.netlify.com](https://miqcraft-theme.netlify.app/page/instagram-theme)
+### Download Instagram Theme : [https://miqcraft-theme.netlify.com](https://miqcraft-theme.netlify.app/page/youtube-theme)
 
 **I found a bug, what do I do?**<br>Make a **Pull Request / Issue** and tell me :)
 
